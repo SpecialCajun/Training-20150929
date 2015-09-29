@@ -1,5 +1,3 @@
 Thomas Simoneaux
-Owner/CEO
+Owner/CEO/CFO
 Cajun Technologies
-
-
